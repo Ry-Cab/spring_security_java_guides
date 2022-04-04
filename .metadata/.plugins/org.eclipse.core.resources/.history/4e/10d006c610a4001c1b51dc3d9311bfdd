@@ -1,0 +1,5 @@
+package com.thecodereveal.app.response;
+
+public class UserInfo {
+
+}

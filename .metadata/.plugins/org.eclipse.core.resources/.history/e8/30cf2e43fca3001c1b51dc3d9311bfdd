@@ -1,0 +1,5 @@
+package com.thecodereveal.app.config;
+
+public class JWTAuthenticationFilter extends  {
+
+}

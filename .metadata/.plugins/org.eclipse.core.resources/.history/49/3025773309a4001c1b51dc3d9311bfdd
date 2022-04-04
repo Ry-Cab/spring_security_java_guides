@@ -1,0 +1,5 @@
+package com.thecodereveal.app.controllers;
+
+public class AuthenticationController {
+
+}
